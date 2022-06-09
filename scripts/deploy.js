@@ -1,5 +1,5 @@
 // scripts/deploy.js
-
+//Deployed at 0x08C67AAd03D18c2aF8C26E608BA508869993343c
 const hre = require("hardhat");
 
 async function main() {
